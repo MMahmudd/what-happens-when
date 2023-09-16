@@ -1,5 +1,5 @@
 What happens when...
-====================
+===================
 
 This repository is an attempt to answer the age-old interview question "What
 happens when you type google.com into your browser's address box and press
@@ -19,7 +19,7 @@ Read this in `简体中文`_ (simplified Chinese), `日本語`_ (Japanese), `한
 maintainers.
 
 Table of Contents
-====================
+===================
 
 .. contents::
    :backlinks: none
